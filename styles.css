@@ -34,9 +34,11 @@ main {
 }
 
 img {
-    width: 300px;
+    width: 100%;
+    max-width: 600px;
     height: auto;
-    margin-top: 20px;
+    display: block;
+    margin: 20px auto;
 }
 
 footer {
