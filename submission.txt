@@ -1,0 +1,25 @@
+Website URL:  
+https://scsafe17.github.io/index.html  
+
+Styling & Customizations:  
+
+1. **Custom Color Scheme:**  
+   - Dark blue (`#1d428a`) for headers and footers to match the NBA theme.  
+   - Light gray (`#f4f4f4`) background for readability.  
+
+2. **Typography:**  
+   - The website uses Arial, sans-serif for a clean and modern look.  
+
+3. **Navigation Styling:**  
+   - Horizontal menu with inline navigation links styled in white for contrast.  
+
+4. **Image Styling:**  
+   - Images are resized to `300px` width while maintaining aspect ratio.  
+   - Images are centered using `margin-top` for alignment.  
+
+5. **Footer Styling:**  
+   - The footer is fixed at the bottom of the page to provide consistent navigation.  
+
+6. **Padding & Layout Adjustments:**  
+   - Proper spacing added around text and sections for better readability.  
+   - Navigation and content sections are centered for a structured appearance.  
